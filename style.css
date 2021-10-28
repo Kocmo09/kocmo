@@ -1,0 +1,10 @@
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    height:300px;
+}
+img{
+    width: 450px;
+    float: right;
+}
